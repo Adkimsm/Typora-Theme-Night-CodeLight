@@ -1,6 +1,8 @@
 # Typora-Theme-Night-CodeLight
 Typora-Night主题的代码高亮美化
 
+本美化包的美化目标是VS Code。
+
 如需使用某个特定的语言美化版，只需下载整个仓库，再将你需要的语言版本去掉语言表示即可。
 
 假设我需要用xxx语言的高亮，我需要在night文件夹内找到codeblock-xxx.dark.css，将其改名为codeblock.dark.css即可。
