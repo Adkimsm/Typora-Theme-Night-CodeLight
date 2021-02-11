@@ -19,4 +19,4 @@ Typora-Night主题的代码高亮美化
 
 适配方法：
 
-/由于视频文件太大，github无法上传，本人又没有空间，暂时就不上传了。具体如何适配，请关注我的博客：<https://www.adkinsm.top>
+<div style="position: relative; padding: 30% 45%;"> <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=84267566&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"></iframe> </div>
