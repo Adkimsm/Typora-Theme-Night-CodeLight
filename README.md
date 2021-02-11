@@ -5,6 +5,10 @@ Typora-Night主题的代码高亮美化
 
 假设我需要用xxx语言的高亮，我需要在night文件夹内找到codeblock-xxx.dark.css，将其改名为codeblock.dark.css即可。
 
+我建议您选择一个主语言下载。
+
+您也可以全部下载，在导出时选择不同的CSS（需要在night.css内修改引用）。
+
 重启Typora就能看到结果。
 
 如果您希望为本项目尽一份力，可以向我提交项目的PR，最好是新语言的适配Css，提交PR我就能将其采用。您也可向我们捐助，以确保项目的开发。
