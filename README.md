@@ -17,7 +17,6 @@ Typora-Night主题的代码高亮美化
 
 如果您想提交PR，提交新语言的适配，您需要查看一下如何对语言进行适配。
 
-适配方法：
-!!!
-<div style="position: relative; padding: 30% 45%;"> <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=84267566&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"></iframe> </div>
-!!!
+适配方法请查看：
+
+https://www.bilibili.com/video/BV1Th411y7bS
